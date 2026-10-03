@@ -3,6 +3,9 @@
 ## 📊 Descripción del Proyecto
 Este dashboard fue desarrollado en Tableau para analizar el desempeño de las divisiones de ventas frente a sus objetivos, identificar tendencias mensuales y visualizar resultados por ubicación geográfica.
 
+![Dashboard de Ventas](dashboard.png)
+
+
 ## 🗂️ Fuentes de Datos
 - **Ventas y Objetivos:** Master Ventas Curso Tableau 2020
 - **Geolocalizaciones:** Master Geolocalizaciones Curso Tableau 2020 + Toronto
@@ -27,3 +30,4 @@ Este dashboard fue desarrollado en Tableau para analizar el desempeño de las di
 ## 📂 Archivos
 - [Descargar Dashboard completo](Dashboard-ventas-cumplimiento.twbx)
 - ![Dashboard de Ventas](dashboard.png)
+
