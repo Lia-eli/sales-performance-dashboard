@@ -1,33 +1,38 @@
-# Cuadro de Mando de Ventas y Cumplimiento
+# Sales & Performance Dashboard
 
-## 📊 Descripción del Proyecto
-Este dashboard fue desarrollado en Tableau para analizar el desempeño de las divisiones de ventas frente a sus objetivos, identificar tendencias mensuales y visualizar resultados por ubicación geográfica.
+## 📊 Project Overview
 
-![Dashboard de Ventas](dashboard.png)
+This dashboard was developed to analyze the performance of sales divisions against their targets, identify monthly trends, and visualize results by geographic location.
 
+![Sales Dashboard](dashboard.png)
 
-## 🗂️ Fuentes de Datos
-- **Ventas y Objetivos:** Master Ventas Curso Tableau 2020
-- **Geolocalizaciones:** Master Geolocalizaciones Curso Tableau 2020 + Toronto
+## 🗂️ Data Sources
 
-## 🔎 Principales Visualizaciones
-- Heatmap de cumplimiento mensual por división.
-- Indicador de % Cumplimiento Nuevo.
-- Gráfico combinado Objetivo vs Ventas.
-- Mapa geográfico interactivo con divisiones y ciudades.
+* **Sales and Targets:** Master Sales
+* **Geographic Locations:** Master Geolocations + Toronto
 
-## 🛠️ Aspectos Técnicos
-- Integración de múltiples fuentes de datos.
-- Transformaciones y cálculos de métricas (% cumplimiento).
-- Modelado jerárquico por divisiones y subdivisiones.
-- Visualización interactiva en Tableau.
+## 🔎 Key Visualizations
 
-## 🎯 Valor para el Negocio
-- Identificación de áreas críticas con bajo desempeño.
-- Análisis geográfico de resultados.
-- Seguimiento de objetivos para decisiones estratégicas.
+* Monthly compliance heatmap by division.
+* New % Achievement indicator.
+* Combined Target vs. Sales chart.
+* Interactive geographic map showing divisions and cities.
 
-## 📂 Archivos
-- [Descargar Dashboard completo](Dashboard-ventas-cumplimiento.twbx)
-- ![Dashboard de Ventas](dashboard.png)
+## 🛠️ Technical Features
+
+* Integration of multiple data sources.
+* Data transformations and metric calculations (% achievement).
+* Hierarchical modeling by divisions and subdivisions.
+* Interactive data visualization.
+
+## 🎯 Business Value
+
+* Identification of critical areas with low performance.
+* Geographic analysis of results.
+* Target tracking to support strategic decision-making.
+
+## 📂 Files
+
+* [Download Full Dashboard](Dashboard-ventas-cumplimiento.twbx)
+* ![Sales Dashboard](dashboard.png)
 
